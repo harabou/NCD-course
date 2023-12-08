@@ -1,4 +1,4 @@
-# NCD Course
+# Fundamentals of Medical Statistics (NCD Epidemiology Leader's Course)
 
 Lecture materials and datasets for hands-on practice can be downloaded using either 1. or 2. 
 1. Direct download from "Lecture materials", "data", and "R-code" on Github
@@ -6,17 +6,20 @@ Lecture materials and datasets for hands-on practice can be downloaded using eit
 
 <h2 id="CH01"> 0. Preparation for Lecture </h2>
 
+
 |節・タイトル|講義資料リンク|
 |---|---|
-|Handout|[レジュメ](https://drive.google.com/file/d/1vq4fiBWyU8wTeEMFERO35DnQ0qeiL7ib/view?usp=sharing)|
+|Handout|[レジュメ](https://drive.google.com/drive/folders/1AOkd-qMxVAeCDesOFQP6-V2Nk41EM1ch?usp=sharing)|
 
-<h2 id="CH01">　1. Course contents：</h2>
+
+<h2 id="CH01"> 1. Course contents：</h2>
 <h3 id="CH03">#01 Introduction
 <h3 id="CH03">#02 Group comparison
 <h3 id="CH03">#03 General linear model (1) Linear regression
 <h3 id="CH03">#04 Generalized linear model (Logistic&Poisson)
 <h3 id="CH03">#05 Survival analysis
 <h3 id="CH03">#06 Primcipal component analysis, Factor analysis, Cluster analysis, and Latent class analysis
+
   
 <h2 id="CH01"> 2.　Handout・Dataset</h2>
 
