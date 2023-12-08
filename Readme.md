@@ -10,7 +10,7 @@ Lecture materials and datasets for hands-on practice can be downloaded using eit
 |---|---|
 |Handout|[レジュメ](https://drive.google.com/file/d/1vq4fiBWyU8wTeEMFERO35DnQ0qeiL7ib/view?usp=sharing)|
 
-<h2 id="CH01">　1. Course contents：
+<h2 id="CH01">　1. Course contents：</h2>
 <h3 id="CH03">#01 Introduction
 <h3 id="CH03">#02 Group comparison
 <h3 id="CH03">#03 General linear model (1) Linear regression
@@ -20,7 +20,7 @@ Lecture materials and datasets for hands-on practice can be downloaded using eit
   
 <h2 id="CH01"> 2.　Handout・Dataset</h2>
 
-|実習回|講義資料リンク|
+|lecture|LINK|
 |---|---|
 |#01|[Handout・Dataset](https://drive.google.com/drive/folders/13rdDMOLTEDmTjoz-REoH7RqSCioqWJfg?usp=sharing)|
 |#02|[Handout・Dataset](https://drive.google.com/drive/folders/14yCS5Uoz2KZYckqjgB09vCLa-uAklmet?usp=sharing)|
