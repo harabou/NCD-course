@@ -1,9 +1,9 @@
 # NCD Course
 
 
-<h2 id="CH01">#0 Preparation for attending lectures</h2>
+<h1 id="CH01">Course contents</h1>
+<h2 id="CH02">#0 Preparation for attending lectures</h2>
 
-|節・タイトル|講義資料リンク|
 |---|---|
 |handout|[handout](https://drive.google.com/file/d/1vq4fiBWyU8wTeEMFERO35DnQ0qeiL7ib/view?usp=sharing)|
 |dataset|[dataset](https://drive.google.com/file/d/1Zy_7wg14otzmNXc7oUOSyTs1YWKVFzra/view?usp=sharing)|
