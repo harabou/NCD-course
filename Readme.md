@@ -1,8 +1,8 @@
 # NCD Course
 
-講義資料と実習用データセットは、下記１）か２）の方法でダウンロードする。
-1) Githubの「講義資料」「data」「R-code」から直接ダウンロード
-2) 下記LINKから「Google drive」にアクセスしダウンロードする。
+Lecture materials and datasets for hands-on practice can be downloaded using either 1. or 2. 
+1. Direct download from "Lecture materials", "data", and "R-code" on Github
+2. Access "Google drive" from the following LINK and download.
 
 <h2 id="CH01"> #0 Preparation </h2>
 
