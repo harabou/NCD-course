@@ -4,13 +4,13 @@ Lecture materials and datasets for hands-on practice can be downloaded using eit
 1. Direct download from "Lecture materials", "data", and "R-code" on Github
 2. Access "Google drive" from the following LINK and download.
 
-<h2 id="CH01"> #0 Preparation </h2>
+<h2 id="CH01"> 0. Preparation for Lecture </h2>
 
 |節・タイトル|講義資料リンク|
 |---|---|
 |Handout|[レジュメ](https://drive.google.com/file/d/1vq4fiBWyU8wTeEMFERO35DnQ0qeiL7ib/view?usp=sharing)|
 
-<h3 id="CH02">　1. Course contents：
+<h2 id="CH01">　1. Course contents：
 <h3 id="CH03">#01 Introduction
 <h3 id="CH03">#02 Group comparison
 <h3 id="CH03">#03 General linear model (1) Linear regression
@@ -18,7 +18,7 @@ Lecture materials and datasets for hands-on practice can be downloaded using eit
 <h3 id="CH03">#05 Survival analysis
 <h3 id="CH03">#06 Primcipal component analysis, Factor analysis, Cluster analysis, and Latent class analysis
   
-<h2 id="CH01">2　Handout・Dataset</h2>
+<h2 id="CH01"> 2.　Handout・Dataset</h2>
 
 |実習回|講義資料リンク|
 |---|---|
