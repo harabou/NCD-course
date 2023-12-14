@@ -1,0 +1,26 @@
+For Lectures
+log-in information
+
+1.SAS academic couese code
+
+code:
+78579bc7-2503-4cc4-bd66-cc7725df3e75
+
+Course Data Directory:
+~/my_shared_file_links/u59072097
+
+Your personal Directory:
+"~/sasuser.v94"
+
+
+2.Webclass
+https://latte.shiga-med.ac.jp/webclass/login.php?group_id=27a89670cd463fc647e574e2e92605cb&auth_mode=SHIB
+
+
+2.Google drive. 
+# NCD Course Biostatistics
+https://drive.google.com/drive/folders/13qxeKK9HsPlaRl7e-0yFSeE4WKmHBTlt?usp=sharing
+
+
+3.Github
+https://github.com/harabou/NCD-course
