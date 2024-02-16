@@ -32,6 +32,7 @@ Lecture materials and datasets for hands-on practice can be downloaded using eit
 |#05|[Handout・Dataset](https://drive.google.com/drive/folders/17sMkETkUpSD8QSUiEBmtzWpuUlb2ONJJ?usp=sharing)|
 |#06|[Handout・Dataset](https://drive.google.com/drive/folders/194M4A2QksB2gpsPAHmb2PnFQv5QA0qVd?usp=sharing)|
 |補足|[Githubからのデータセット読み込み](https://drive.google.com/file/d/1Aym86YJ1HzOpzsuRsY0iTw7p5pqfHd5f/view?usp=sharing)|
+|Wrap up|[Handout/Dataset](https://drive.google.com/drive/folders/1CrELyyvVpGiMiElui-HkI5ZRCeSjcsXq?usp=drive_link)|
 
 
 
